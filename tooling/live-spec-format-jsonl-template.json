@@ -1,0 +1,26 @@
+{
+  "behavioral_contract": {
+    "inputs": [],
+    "outputs": [],
+    "operations": [],
+    "edge_cases": [],
+    "error_states": [],
+    "invariants": []
+  },
+  "constitution_refs": [],
+  "task_map": [],
+  "module_boundary": {
+    "module_name": "",
+    "exports": [],
+    "types_defined": [],
+    "dependencies": [],
+    "host_imports_required": []
+  },
+  "graft_points": [],
+  "call_graph": {
+    "called_by": [],
+    "calls": [],
+    "dependency_direction": "",
+    "notes": ""
+  }
+}
