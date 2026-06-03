@@ -1,6 +1,6 @@
 # Live Spec Format
 
-The Live Spec Format is the cornerstone of the [REDACTED] agentic software development methodology. It serves as the definitive handoff artifact between human operator intent and machine-executable specification, enabling the 5-stage manufacturing pipeline (test → code → audit → graft → accept).
+The Live Spec Format is the cornerstone of the Dragonlight agentic software development methodology. It serves as the definitive handoff artifact between human operator intent and machine-executable specification, enabling the 5-stage manufacturing pipeline (test → code → audit → graft → accept).
 
 ## Purpose
 
